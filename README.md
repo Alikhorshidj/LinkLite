@@ -14,7 +14,7 @@ Your smart Telegram bot that reads, understands, and summarizes any link you sen
 ⚡ Fast, minimal, and built to run anywhere (Render, Railway, Heroku)
 
 
-#🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Python · Telegram Bot API · NLP (transformers / sumy)
 
