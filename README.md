@@ -15,6 +15,7 @@ Your smart Telegram bot that reads, understands, and summarizes any link you sen
 
 
 🛠️ Tech Stack
+
 Python · Telegram Bot API · NLP (transformers / sumy)
 
 Newspaper3k / BeautifulSoup · SQLite / JSON
